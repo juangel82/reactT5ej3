@@ -1,0 +1,14 @@
+.azul{
+    background-color: rgb(132, 132, 212);
+    border: 1px;
+    border-style: dotted;
+}
+.gris{
+    background-color: rgb(255, 251, 251);
+}
+.verde{
+    background-color: rgb(140, 240, 140);
+}
+.gris{
+    background-color: rgb(212, 108, 108);
+}
