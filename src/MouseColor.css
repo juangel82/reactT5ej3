@@ -1,14 +1,22 @@
 .azul{
     background-color: rgb(132, 132, 212);
-    border: 1px;
-    border-style: dotted;
+   
+    padding : 70px;
 }
 .gris{
-    background-color: rgb(255, 251, 251);
+    background-color: rgb(107, 106, 106);
+    padding : 70px;
 }
 .verde{
     background-color: rgb(140, 240, 140);
+    padding : 70px;
 }
-.gris{
+.rojo{
     background-color: rgb(212, 108, 108);
+    
+    padding : 70px;;
+}
+.bloquea{
+    background-color: rgb(0, 0, 0);
+    padding:4px;
 }
